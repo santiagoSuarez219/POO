@@ -4,6 +4,7 @@
   - [Paradigmas de programacion](#paradigmas-de-programacion)
   - [Objetos](#objetos)
   - [Clases](#clases)
+- [Enlaces de interes](#enlaces-de-interes)
 
 
 # Programacion Orientada a Objetos
@@ -22,3 +23,7 @@ Los paradigmas de programación son enfoques fundamentales y modelos conceptuale
 un objeto es una entidad que representa un concepto o una entidad del mundo real. Tiene un estado y un comportamiento. El estado de un objeto es la información que lo define, como su nombre, su edad, su color, etc. El comportamiento de un objeto es lo que puede hacer, como caminar, hablar, comer, etc.
 
 ## Clases
+Una clase es una plantilla para crear objetos. Define los datos y el comportamiento de un tipo de objeto. Las clases se utilizan para crear y administrar nuevos objetos y se utilizan para organizar el código en aplicaciones de software.
+
+# Enlaces de interes
+1. [Curso de Edteams Gratis de POO](https://ed.team/cursos/poo)
